@@ -1,12 +1,14 @@
 .cabecalho {
     background-color: #a52a2a
     color(brown)
-    display: flex
+    dispay:flex
     justify-content: space-around
-    
+
 
       
 }
 .cabecalho-imagem{
     width: 20%;
+    display: inline-block;
+    margin: 0 16px;
 }
