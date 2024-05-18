@@ -6,13 +6,17 @@ padding: 0;}
     background: color #000;
     color:#000;
     align-items: center;
-    margin: 24px 0;
+    padding: 24px 0;
 
 
       
 }
 .cabecalho-imagem{
     width: 75%;
-    display: inline-block;
-    margin: 0 14px;
+}
+
+.cabecalho-lista-item{
+    display: flex;
+    margin: 16px 0
+
 }
