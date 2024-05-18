@@ -1,7 +1,9 @@
 .cabecalho {
     background-color: #a52a2a
     color(brown)
-    display:flex
+    display: flex
+    justify-content: space-around
+    
 
       
 }
